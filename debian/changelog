@@ -1,3 +1,9 @@
+koha (21.11.04-2~git+20220402000329.e3bd1293-1) stable; urgency=medium
+
+  * New upstream release (21.11.04-2)
+
+ -- Mason James <mtj@kohaaloha.com>  Sat, 02 Apr 2022 00:09:10 +1300
+
 koha (16.05.02) squeeze; urgency=medium
 
   * New upstream release (16.05.02)
