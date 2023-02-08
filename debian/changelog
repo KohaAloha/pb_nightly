@@ -1,3 +1,9 @@
+koha (22.11.02-0~git+20230208213856.015ad1f7-1) stable; urgency=medium
+
+  * New upstream release (22.11.02-0)
+
+ -- Mason James <mtj@kohaaloha.com>  Wed, 08 Feb 2023 21:41:01 +1300
+
 koha (22.11.01-1) 22.11; urgency=high
 
   * New upstream SECURITY release (22.11.01)
